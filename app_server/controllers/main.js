@@ -1,5 +1,5 @@
 const index = (req, res) => {
-    res.render('index', {title: 'fruddi 🔪🥕🥔🫛🍠🫑📚📊'});
+    res.render('index', {title: 'fruddi 🥕🥔🫛🍠🫑📚📊'});
 };
 module.exports = {
     index
